@@ -10,9 +10,11 @@ import java.io.IOException;
 public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("Hello!");
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("filesFXML/mainPage-view.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), 450, 700);
+        scene.getStylesheets().add("resources/com/example/unicalculator/CSS/styleMainPage.CSS");
+
+        stage.setTitle("UniCalculator");
         stage.setScene(scene);
         stage.show();
     }
