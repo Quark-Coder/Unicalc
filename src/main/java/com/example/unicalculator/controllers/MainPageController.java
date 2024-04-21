@@ -61,7 +61,7 @@ public class MainPageController {
     private Button cosBut;
 
     @FXML
-    private Button covertBut;
+    private Button convertBut;
 
     @FXML
     private Button deleteBut;
