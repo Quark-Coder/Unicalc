@@ -26,7 +26,7 @@
             </ImageView>
          </graphic>
       </Button>
-      <Line endX="29.0" fill="#333333b2" rotate="90.0" stroke="#333333b2" />
+      <Line endX="29.0" fill="#333333b2" rotate="90.0" stroke="#33333380" />
       <Button fx:id="categoriesBut" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="55.0" styleClass="butMB">
          <graphic>
             <ImageView translateX="-1.0" translateY="1.0">
@@ -34,7 +34,7 @@
             </ImageView>
          </graphic>
       </Button>
-      <Line endX="29.0" fill="#333333b2" layoutX="175.0" layoutY="45.0" rotate="90.0" stroke="#333333b2" />
+      <Line endX="29.0" fill="#333333b2" layoutX="175.0" layoutY="45.0" rotate="90.0" stroke="#33333380" />
       <Button fx:id="covertBut" layoutX="62.0" layoutY="10.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="55.0" styleClass="butMB">
          <graphic>
             <ImageView>
@@ -261,5 +261,5 @@
          </Button>
       </GridPane>
    </AnchorPane>
-   <Line endX="350.0" fill="#33333333" layoutX="50.0" layoutY="230.0" stroke="#33333333" />
+   <Line endX="350.0" fill="#33333333" layoutX="50.0" layoutY="226.0" stroke="#33333333" />
 </AnchorPane>
