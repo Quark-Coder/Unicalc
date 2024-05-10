@@ -9,11 +9,16 @@
 }
 
 .scroll-pane, #flowpane{
-    -fx-background-color: white
+    -fx-background-color: white;
+
 }
 
 .scroll-bar{
     -fx-opacity: 0;
+}
+
+.corner{
+    -fx-background-color: white;
 }
 
 .label{
@@ -44,9 +49,9 @@
     -fx-pref-height: 89px;
     -fx-max-height: 89px;
     
-    -fx-min-width: 95px;
-    -fx-pref-width: 95px;
-    -fx-max-width: 95px;
+    -fx-min-width: 100px;
+    -fx-pref-width: 100px;
+    -fx-max-width: 100px;
 
     -fx-background-radius: 20px;
 }
