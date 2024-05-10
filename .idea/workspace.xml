@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d21741f2-bd34-4105-8c4a-93b3e1f2e7fa" name="Changes" comment="start calc task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/CatPageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleCategPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/categoriesPage-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Inter/Inter-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Inter/Inter-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Montserrat/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/ConvertPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleConvertPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/converterPage-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/MainPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/MainPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleMainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleMainPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/mainPage-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/mainPage-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/CatPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/CategoriesPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleCategPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleCategPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/categoriesPage-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/categoriesPage-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UniCalculator" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">

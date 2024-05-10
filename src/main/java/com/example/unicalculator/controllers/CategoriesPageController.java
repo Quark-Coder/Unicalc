@@ -7,7 +7,7 @@ import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.FlowPane;
 
-public class CatPageController {
+public class CategoriesPageController {
 
     @FXML
     private Button algebraBut;
@@ -19,7 +19,7 @@ public class CatPageController {
     private Button calcButton;
 
     @FXML
-    private AnchorPane catWindow;
+    private AnchorPane categoriesWindow;
 
     @FXML
     private Button categoriesBut;
