@@ -248,7 +248,7 @@
                <String fx:value="numKeys" />
             </styleClass>
          </Button>
-         <Button layoutX="284.0" layoutY="230.0" maxHeight="70.0" maxWidth="80.0" minHeight="70.0" minWidth="80.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="80.0" text="-" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER">
+         <Button fx:id="subBut" layoutX="284.0" layoutY="230.0" maxHeight="70.0" maxWidth="80.0" minHeight="70.0" minWidth="80.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="80.0" text="-" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER">
             <font>
                <Font size="36.0" />
             </font>
@@ -278,7 +278,7 @@
                <String fx:value="numKeys" />
             </styleClass>
          </Button>
-         <Button layoutX="284.0" layoutY="300.0" maxHeight="70.0" maxWidth="80.0" minHeight="70.0" minWidth="80.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="80.0" text="+" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER">
+         <Button fx:id="sumBut" layoutX="284.0" layoutY="300.0" maxHeight="70.0" maxWidth="80.0" minHeight="70.0" minWidth="80.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="80.0" text="+" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="4" GridPane.valignment="CENTER">
             <font>
                <Font size="36.0" />
             </font>
