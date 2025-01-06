@@ -4,54 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21741f2-bd34-4105-8c4a-93b3e1f2e7fa" name="Changes" comment="start calc task">
+    <list default="true" id="d21741f2-bd34-4105-8c4a-93b3e1f2e7fa" name="Changes" comment="Update to Java 21">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/CategoriesPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/CategoriesPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/ConvertPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/ConvertPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/MainPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/unicalculator/controllers/MainPageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleCategPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/CSS/styleCategPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleConvertPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/CSS/styleConvertPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/CSS/styleMainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/CSS/styleMainPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/categoriesPage-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/filesFXML/categoriesPage-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/converterPage-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/filesFXML/converterPage-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/filesFXML/mainPage-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/filesFXML/mainPage-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Inter/Inter-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/Inter/Inter-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Inter/Inter-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/Inter/Inter-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/Montserrat/Montserrat-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/fonts/Montserrat/Montserrat-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fonts/Montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/algebraImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/algebraImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/chanceImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/chanceImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/combinationImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/combinationImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/graphicsFrame.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/graphicsFrame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/mathAnalyzeImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/mathAnalyzeImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/mathLog.Img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/mathLog.Img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/matrix.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/math/setsImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/math/setsImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/physics/electrodynamImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/physics/electrodynamImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/physics/mechanicsImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/physics/mechanicsImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/physics/optics.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/physics/optics.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/categoriesPage/physics/thermodynamImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/categoriesPage/physics/thermodynamImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/ageImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/ageImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/binaryImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/binaryImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/currencyImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/currencyImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/dataImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/dataImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/dateImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/dateImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/discountImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/discountImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/lengthImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/lengthImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/timeImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/timeImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/velocityImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/velocityImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/volumeImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/volumeImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/converterPage/weightImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/converterPage/weightImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainPage/backspaceImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainPage/backspaceImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainPage/historyImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainPage/historyImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainbar/calculatorImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainbar/calculatorImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainbar/calculatorImg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainbar/calculatorImg1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainbar/categoryImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainbar/categoryImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainbar/categoryImg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainbar/categoryImg1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainbar/convertImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainbar/convertImg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/unicalculator/images/mainbar/convertImg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/mainbar/convertImg1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +20,43 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UniCalculator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UniCalculator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UniCalculator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="UniCalculator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,8 +82,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/CheAlOwn/croculator3000.git&quot;,
-    &quot;accountId&quot;: &quot;41234490-61fb-4d10-83ff-81495f3e4559&quot;
+    &quot;url&quot;: &quot;https://github.com/Quark-Coder/Unicalc&quot;,
+    &quot;accountId&quot;: &quot;e70f3259-df9c-44d3-a6b7-2d2c70af4e76&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -107,16 +99,25 @@
     "Gradle.UniCalculator [:Application.main()].executor": "Run",
     "Gradle.UniCalculator [:HelloApplication.main()].executor": "Run",
     "Gradle.UniCalculator [:MainApplication.main()].executor": "Run",
+    "Gradle.Unicalc [:com.example.unicalculator.MainApplication.main()].executor": "Run",
+    "Gradle.Unicalc [clean].executor": "Run",
+    "Gradle.Unicalc [run].executor": "Run",
     "Gradle.croculator [:MainApplication.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "CheAlOwn",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Coding/Java/croculator/src/main/resources",
+    "last_opened_file_path": "D:/Coding/Java/Unicalc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15039062",
+    "project.structure.side.proportion": "0.49942464",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -131,7 +132,7 @@
       <recent name="D:\проги\IdeaProjects\UniCalculator\src\main\resources\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.Unicalc [run]">
     <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.unicalculator.MainApplication" />
       <module name="UniCalculator.main" />
@@ -145,6 +146,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unicalc [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unicalc [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Unicalc [run]" />
+        <item itemvalue="Gradle.Unicalc [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -154,6 +213,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713421234880</updated>
+      <workItem from="1736173586547" duration="1953000" />
+      <workItem from="1736176405554" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="start calc task">
       <option name="closed" value="true" />
@@ -171,8 +232,19 @@
       <option name="project" value="LOCAL" />
       <updated>1713709478740</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update to Java 21">
+      <option name="closed" value="true" />
+      <created>1736176846083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736176846083</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -188,6 +260,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new files and modify" />
     <MESSAGE value="start calc task" />
-    <option name="LAST_COMMIT_MESSAGE" value="start calc task" />
+    <MESSAGE value="Update to Java 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to Java 21" />
   </component>
 </project>
